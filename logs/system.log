@@ -1,0 +1,191 @@
+2026-03-11 12:01:07,797 - METRICS: {'cpu': 4.5, 'memory': 54.3, 'disk': 57.2, 'network_sent': 255566153, 'network_recv': 117800202, 'process_count': 246}
+2026-03-11 12:01:13,821 - METRICS: {'cpu': 18.4, 'memory': 54.5, 'disk': 57.2, 'network_sent': 255569591, 'network_recv': 117812057, 'process_count': 250}
+2026-03-11 12:01:19,853 - METRICS: {'cpu': 11.0, 'memory': 53.6, 'disk': 57.2, 'network_sent': 255580618, 'network_recv': 117921255, 'process_count': 251}
+2026-03-11 12:01:25,887 - METRICS: {'cpu': 13.9, 'memory': 53.8, 'disk': 57.2, 'network_sent': 255633039, 'network_recv': 117964366, 'process_count': 251}
+2026-03-11 12:01:31,910 - METRICS: {'cpu': 1.0, 'memory': 53.9, 'disk': 57.2, 'network_sent': 255640671, 'network_recv': 117968899, 'process_count': 251}
+2026-03-11 12:01:38,002 - METRICS: {'cpu': 11.3, 'memory': 53.8, 'disk': 57.2, 'network_sent': 255671058, 'network_recv': 117991753, 'process_count': 249}
+2026-03-11 12:01:44,067 - METRICS: {'cpu': 25.2, 'memory': 54.5, 'disk': 57.2, 'network_sent': 255707092, 'network_recv': 118006758, 'process_count': 251}
+2026-03-11 12:01:50,117 - METRICS: {'cpu': 15.9, 'memory': 54.4, 'disk': 57.2, 'network_sent': 255723725, 'network_recv': 118019073, 'process_count': 251}
+2026-03-11 12:01:56,142 - METRICS: {'cpu': 9.4, 'memory': 54.3, 'disk': 57.2, 'network_sent': 255724284, 'network_recv': 118024534, 'process_count': 251}
+2026-03-11 12:02:02,170 - METRICS: {'cpu': 9.6, 'memory': 54.5, 'disk': 57.2, 'network_sent': 255724486, 'network_recv': 118025533, 'process_count': 251}
+2026-03-11 12:02:08,198 - METRICS: {'cpu': 39.8, 'memory': 54.6, 'disk': 57.2, 'network_sent': 255746979, 'network_recv': 118046549, 'process_count': 251}
+2026-03-11 12:02:14,216 - METRICS: {'cpu': 10.4, 'memory': 54.4, 'disk': 57.2, 'network_sent': 255766773, 'network_recv': 118066158, 'process_count': 250}
+2026-03-11 12:02:20,249 - METRICS: {'cpu': 11.0, 'memory': 54.2, 'disk': 57.2, 'network_sent': 255780346, 'network_recv': 118074535, 'process_count': 249}
+2026-03-11 12:02:26,270 - METRICS: {'cpu': 1.6, 'memory': 54.2, 'disk': 57.2, 'network_sent': 255783191, 'network_recv': 118078698, 'process_count': 249}
+2026-03-11 12:02:32,292 - METRICS: {'cpu': 1.2, 'memory': 54.1, 'disk': 57.2, 'network_sent': 255790322, 'network_recv': 118083087, 'process_count': 248}
+2026-03-11 12:02:38,311 - METRICS: {'cpu': 9.7, 'memory': 54.2, 'disk': 57.2, 'network_sent': 255795773, 'network_recv': 118092188, 'process_count': 248}
+2026-03-11 12:02:44,332 - METRICS: {'cpu': 11.0, 'memory': 54.2, 'disk': 57.2, 'network_sent': 255796659, 'network_recv': 118107446, 'process_count': 247}
+2026-03-11 12:02:50,351 - METRICS: {'cpu': 11.1, 'memory': 54.3, 'disk': 57.2, 'network_sent': 255796969, 'network_recv': 118116371, 'process_count': 248}
+2026-03-11 12:02:56,372 - METRICS: {'cpu': 1.8, 'memory': 54.3, 'disk': 57.2, 'network_sent': 255797382, 'network_recv': 118117415, 'process_count': 248}
+2026-03-11 12:03:02,392 - METRICS: {'cpu': 1.3, 'memory': 54.3, 'disk': 57.2, 'network_sent': 255797900, 'network_recv': 118118712, 'process_count': 248}
+2026-03-11 12:03:08,413 - METRICS: {'cpu': 11.6, 'memory': 54.3, 'disk': 57.2, 'network_sent': 255798479, 'network_recv': 118124902, 'process_count': 248}
+2026-03-11 12:03:14,428 - METRICS: {'cpu': 9.6, 'memory': 54.4, 'disk': 57.2, 'network_sent': 255811207, 'network_recv': 118142342, 'process_count': 248}
+2026-03-11 12:03:20,455 - METRICS: {'cpu': 10.7, 'memory': 54.3, 'disk': 57.2, 'network_sent': 255811752, 'network_recv': 118144065, 'process_count': 248}
+2026-03-11 12:03:26,476 - METRICS: {'cpu': 1.2, 'memory': 54.3, 'disk': 57.2, 'network_sent': 255820505, 'network_recv': 118155547, 'process_count': 248}
+2026-03-11 12:03:32,495 - METRICS: {'cpu': 1.3, 'memory': 54.3, 'disk': 57.2, 'network_sent': 255827585, 'network_recv': 118159060, 'process_count': 248}
+2026-03-11 12:03:38,515 - METRICS: {'cpu': 9.3, 'memory': 54.3, 'disk': 57.2, 'network_sent': 255828076, 'network_recv': 118162132, 'process_count': 248}
+2026-03-11 12:03:44,550 - METRICS: {'cpu': 10.9, 'memory': 54.3, 'disk': 57.2, 'network_sent': 255828641, 'network_recv': 118163379, 'process_count': 248}
+2026-03-11 12:03:50,575 - METRICS: {'cpu': 11.4, 'memory': 54.2, 'disk': 57.2, 'network_sent': 255831574, 'network_recv': 118165054, 'process_count': 247}
+2026-03-11 12:03:56,605 - METRICS: {'cpu': 20.9, 'memory': 53.8, 'disk': 57.2, 'network_sent': 255831868, 'network_recv': 118165461, 'process_count': 248}
+2026-03-11 12:04:02,627 - METRICS: {'cpu': 2.5, 'memory': 53.7, 'disk': 57.2, 'network_sent': 255844938, 'network_recv': 118180063, 'process_count': 249}
+2026-03-11 12:04:08,645 - METRICS: {'cpu': 10.2, 'memory': 53.7, 'disk': 57.2, 'network_sent': 255845388, 'network_recv': 118180948, 'process_count': 249}
+2026-03-11 12:04:14,667 - METRICS: {'cpu': 9.5, 'memory': 53.5, 'disk': 57.2, 'network_sent': 255856210, 'network_recv': 118190705, 'process_count': 249}
+2026-03-11 12:04:20,685 - METRICS: {'cpu': 10.7, 'memory': 53.6, 'disk': 57.2, 'network_sent': 255856594, 'network_recv': 118191211, 'process_count': 249}
+2026-03-11 12:04:26,705 - METRICS: {'cpu': 1.0, 'memory': 53.6, 'disk': 57.2, 'network_sent': 255860084, 'network_recv': 118195697, 'process_count': 249}
+2026-03-11 12:04:32,727 - METRICS: {'cpu': 1.4, 'memory': 53.5, 'disk': 57.2, 'network_sent': 255868450, 'network_recv': 118200608, 'process_count': 249}
+2026-03-11 12:04:38,750 - METRICS: {'cpu': 9.2, 'memory': 53.5, 'disk': 57.2, 'network_sent': 255874908, 'network_recv': 118215567, 'process_count': 249}
+2026-03-11 12:04:44,769 - METRICS: {'cpu': 10.0, 'memory': 53.5, 'disk': 57.2, 'network_sent': 255877375, 'network_recv': 118218205, 'process_count': 249}
+2026-03-11 12:04:50,787 - METRICS: {'cpu': 10.6, 'memory': 53.5, 'disk': 57.2, 'network_sent': 255877530, 'network_recv': 118218957, 'process_count': 249}
+2026-03-11 12:04:56,809 - METRICS: {'cpu': 1.4, 'memory': 53.6, 'disk': 57.2, 'network_sent': 255888989, 'network_recv': 118231123, 'process_count': 249}
+2026-03-11 12:05:02,827 - METRICS: {'cpu': 14.9, 'memory': 53.5, 'disk': 57.2, 'network_sent': 255889191, 'network_recv': 118232175, 'process_count': 248}
+2026-03-11 12:05:08,863 - METRICS: {'cpu': 12.4, 'memory': 53.5, 'disk': 57.2, 'network_sent': 255889479, 'network_recv': 118232581, 'process_count': 248}
+2026-03-11 12:05:14,905 - METRICS: {'cpu': 11.3, 'memory': 53.5, 'disk': 57.2, 'network_sent': 255890014, 'network_recv': 118233700, 'process_count': 248}
+2026-03-11 12:05:20,927 - METRICS: {'cpu': 10.3, 'memory': 53.5, 'disk': 57.2, 'network_sent': 255890301, 'network_recv': 118234784, 'process_count': 248}
+2026-03-11 12:05:26,945 - METRICS: {'cpu': 10.6, 'memory': 53.2, 'disk': 57.2, 'network_sent': 255905866, 'network_recv': 118255491, 'process_count': 247}
+2026-03-11 12:05:32,972 - METRICS: {'cpu': 14.9, 'memory': 53.3, 'disk': 57.2, 'network_sent': 255918477, 'network_recv': 118262914, 'process_count': 247}
+2026-03-11 12:05:39,004 - METRICS: {'cpu': 10.1, 'memory': 53.2, 'disk': 57.2, 'network_sent': 255918781, 'network_recv': 118263979, 'process_count': 247}
+2026-03-11 12:05:45,038 - METRICS: {'cpu': 10.8, 'memory': 53.1, 'disk': 57.2, 'network_sent': 255919510, 'network_recv': 118265600, 'process_count': 247}
+2026-03-11 12:05:51,069 - METRICS: {'cpu': 10.5, 'memory': 53.1, 'disk': 57.2, 'network_sent': 255923673, 'network_recv': 118270932, 'process_count': 247}
+2026-03-11 12:05:57,090 - METRICS: {'cpu': 1.4, 'memory': 53.1, 'disk': 57.2, 'network_sent': 255932775, 'network_recv': 118273138, 'process_count': 247}
+2026-03-11 12:06:03,111 - METRICS: {'cpu': 1.7, 'memory': 53.1, 'disk': 57.2, 'network_sent': 255933384, 'network_recv': 118275849, 'process_count': 247}
+2026-03-11 12:06:09,135 - METRICS: {'cpu': 12.4, 'memory': 53.1, 'disk': 57.2, 'network_sent': 255933640, 'network_recv': 118277950, 'process_count': 247}
+2026-03-11 12:06:15,177 - METRICS: {'cpu': 38.2, 'memory': 54.6, 'disk': 57.2, 'network_sent': 255951170, 'network_recv': 118294200, 'process_count': 256}
+2026-03-11 12:06:21,225 - METRICS: {'cpu': 27.5, 'memory': 53.9, 'disk': 57.2, 'network_sent': 255991515, 'network_recv': 118331605, 'process_count': 258}
+2026-03-11 12:06:27,261 - METRICS: {'cpu': 19.6, 'memory': 54.5, 'disk': 57.2, 'network_sent': 256014849, 'network_recv': 118502818, 'process_count': 259}
+2026-03-11 12:06:33,289 - METRICS: {'cpu': 13.0, 'memory': 52.1, 'disk': 57.2, 'network_sent': 256069785, 'network_recv': 118752533, 'process_count': 259}
+2026-03-11 12:06:39,320 - METRICS: {'cpu': 12.4, 'memory': 52.1, 'disk': 57.2, 'network_sent': 256084613, 'network_recv': 118914443, 'process_count': 260}
+2026-03-11 12:06:45,369 - METRICS: {'cpu': 11.8, 'memory': 52.1, 'disk': 57.2, 'network_sent': 256095426, 'network_recv': 119058629, 'process_count': 260}
+2026-03-11 12:06:51,408 - METRICS: {'cpu': 11.1, 'memory': 52.0, 'disk': 57.2, 'network_sent': 256102384, 'network_recv': 119147152, 'process_count': 258}
+2026-03-11 12:06:57,432 - METRICS: {'cpu': 2.5, 'memory': 52.0, 'disk': 57.2, 'network_sent': 256135323, 'network_recv': 119328329, 'process_count': 257}
+2026-03-11 12:07:03,457 - METRICS: {'cpu': 2.3, 'memory': 52.0, 'disk': 57.2, 'network_sent': 256142794, 'network_recv': 119430250, 'process_count': 257}
+2026-03-11 12:07:09,509 - METRICS: {'cpu': 11.1, 'memory': 52.1, 'disk': 57.2, 'network_sent': 256150136, 'network_recv': 119548923, 'process_count': 257}
+2026-03-11 12:07:15,549 - METRICS: {'cpu': 20.0, 'memory': 52.0, 'disk': 57.2, 'network_sent': 256189638, 'network_recv': 119639912, 'process_count': 255}
+2026-03-11 12:07:21,595 - METRICS: {'cpu': 14.6, 'memory': 52.4, 'disk': 57.2, 'network_sent': 256196473, 'network_recv': 119662739, 'process_count': 256}
+2026-03-11 12:07:27,621 - METRICS: {'cpu': 3.0, 'memory': 52.3, 'disk': 57.2, 'network_sent': 256240005, 'network_recv': 120178719, 'process_count': 256}
+2026-03-11 12:07:33,646 - METRICS: {'cpu': 2.9, 'memory': 52.4, 'disk': 57.2, 'network_sent': 256265329, 'network_recv': 121669472, 'process_count': 256}
+2026-03-11 12:07:39,672 - METRICS: {'cpu': 14.9, 'memory': 52.3, 'disk': 57.2, 'network_sent': 256371268, 'network_recv': 121734657, 'process_count': 255}
+2026-03-11 12:07:45,719 - METRICS: {'cpu': 20.5, 'memory': 52.3, 'disk': 57.2, 'network_sent': 256426608, 'network_recv': 121739507, 'process_count': 255}
+2026-03-11 12:07:51,758 - METRICS: {'cpu': 29.0, 'memory': 52.2, 'disk': 57.2, 'network_sent': 256431882, 'network_recv': 121746760, 'process_count': 255}
+2026-03-11 12:07:57,784 - METRICS: {'cpu': 3.9, 'memory': 52.4, 'disk': 57.2, 'network_sent': 256450714, 'network_recv': 121797268, 'process_count': 259}
+2026-03-11 12:08:03,811 - METRICS: {'cpu': 4.0, 'memory': 51.9, 'disk': 57.0, 'network_sent': 256480423, 'network_recv': 122667221, 'process_count': 258}
+2026-03-11 12:08:09,842 - METRICS: {'cpu': 19.3, 'memory': 52.4, 'disk': 57.0, 'network_sent': 256497234, 'network_recv': 122699969, 'process_count': 261}
+2026-03-11 12:08:15,881 - METRICS: {'cpu': 22.5, 'memory': 54.5, 'disk': 57.0, 'network_sent': 256613522, 'network_recv': 122739866, 'process_count': 261}
+2026-03-11 12:08:21,924 - METRICS: {'cpu': 26.3, 'memory': 55.2, 'disk': 57.0, 'network_sent': 256727568, 'network_recv': 122773881, 'process_count': 261}
+2026-03-11 12:08:27,954 - METRICS: {'cpu': 31.0, 'memory': 53.4, 'disk': 57.1, 'network_sent': 256733896, 'network_recv': 122779623, 'process_count': 257}
+2026-03-11 12:08:34,007 - METRICS: {'cpu': 14.9, 'memory': 51.7, 'disk': 57.0, 'network_sent': 256753856, 'network_recv': 122799197, 'process_count': 257}
+2026-03-11 12:08:40,056 - METRICS: {'cpu': 28.2, 'memory': 51.6, 'disk': 57.0, 'network_sent': 256772301, 'network_recv': 122826702, 'process_count': 256}
+2026-03-11 12:08:46,106 - METRICS: {'cpu': 19.6, 'memory': 51.5, 'disk': 57.0, 'network_sent': 256774979, 'network_recv': 122828241, 'process_count': 256}
+2026-03-11 12:08:52,158 - METRICS: {'cpu': 26.5, 'memory': 51.5, 'disk': 57.0, 'network_sent': 262078980, 'network_recv': 122896256, 'process_count': 256}
+2026-03-11 12:08:58,192 - METRICS: {'cpu': 11.3, 'memory': 51.7, 'disk': 57.0, 'network_sent': 262156822, 'network_recv': 122901727, 'process_count': 257}
+2026-03-11 12:09:04,250 - METRICS: {'cpu': 20.4, 'memory': 51.9, 'disk': 57.0, 'network_sent': 262175763, 'network_recv': 122917794, 'process_count': 257}
+2026-03-11 12:09:10,295 - METRICS: {'cpu': 31.9, 'memory': 52.1, 'disk': 57.0, 'network_sent': 262211160, 'network_recv': 122982213, 'process_count': 257}
+2026-03-11 12:09:16,335 - METRICS: {'cpu': 29.9, 'memory': 53.2, 'disk': 57.0, 'network_sent': 262231503, 'network_recv': 122989160, 'process_count': 255}
+2026-03-11 12:09:22,380 - METRICS: {'cpu': 42.5, 'memory': 53.6, 'disk': 57.0, 'network_sent': 262268047, 'network_recv': 123002831, 'process_count': 257}
+2026-03-11 12:09:28,430 - METRICS: {'cpu': 20.5, 'memory': 53.8, 'disk': 57.0, 'network_sent': 262338967, 'network_recv': 123094022, 'process_count': 257}
+2026-03-11 12:09:34,481 - METRICS: {'cpu': 43.4, 'memory': 54.0, 'disk': 57.0, 'network_sent': 262389025, 'network_recv': 123099650, 'process_count': 257}
+2026-03-11 12:09:40,520 - METRICS: {'cpu': 44.4, 'memory': 54.6, 'disk': 57.0, 'network_sent': 262466059, 'network_recv': 123177835, 'process_count': 257}
+2026-03-11 12:09:46,574 - METRICS: {'cpu': 22.8, 'memory': 54.7, 'disk': 57.0, 'network_sent': 262530214, 'network_recv': 123191830, 'process_count': 257}
+2026-03-11 12:09:52,649 - METRICS: {'cpu': 26.3, 'memory': 54.8, 'disk': 57.0, 'network_sent': 262565097, 'network_recv': 123203285, 'process_count': 257}
+2026-03-11 12:09:58,701 - METRICS: {'cpu': 10.6, 'memory': 54.7, 'disk': 57.0, 'network_sent': 262666482, 'network_recv': 123226525, 'process_count': 256}
+2026-03-11 12:10:04,752 - METRICS: {'cpu': 9.7, 'memory': 54.2, 'disk': 57.0, 'network_sent': 262692336, 'network_recv': 123235613, 'process_count': 253}
+2026-03-11 12:10:10,807 - METRICS: {'cpu': 10.4, 'memory': 54.2, 'disk': 57.0, 'network_sent': 262695884, 'network_recv': 123240819, 'process_count': 253}
+2026-03-11 12:10:16,877 - METRICS: {'cpu': 10.5, 'memory': 54.1, 'disk': 57.0, 'network_sent': 262705980, 'network_recv': 123243593, 'process_count': 253}
+2026-03-11 12:10:22,902 - METRICS: {'cpu': 9.4, 'memory': 54.0, 'disk': 57.0, 'network_sent': 262736828, 'network_recv': 123247556, 'process_count': 251}
+2026-03-11 12:10:28,935 - METRICS: {'cpu': 24.5, 'memory': 53.8, 'disk': 57.0, 'network_sent': 262748255, 'network_recv': 123255354, 'process_count': 251}
+2026-03-11 12:10:34,992 - METRICS: {'cpu': 11.0, 'memory': 53.8, 'disk': 57.0, 'network_sent': 262753885, 'network_recv': 123260150, 'process_count': 250}
+2026-03-11 12:10:41,044 - METRICS: {'cpu': 13.7, 'memory': 53.8, 'disk': 57.0, 'network_sent': 262754279, 'network_recv': 123261313, 'process_count': 250}
+2026-03-11 12:10:47,099 - METRICS: {'cpu': 12.7, 'memory': 53.9, 'disk': 57.0, 'network_sent': 262761698, 'network_recv': 123275455, 'process_count': 250}
+2026-03-11 12:10:53,124 - METRICS: {'cpu': 7.6, 'memory': 53.8, 'disk': 57.0, 'network_sent': 262782228, 'network_recv': 123278208, 'process_count': 250}
+2026-03-11 12:10:59,154 - METRICS: {'cpu': 14.7, 'memory': 53.7, 'disk': 57.0, 'network_sent': 262782719, 'network_recv': 123280788, 'process_count': 250}
+2026-03-11 12:11:05,207 - METRICS: {'cpu': 11.8, 'memory': 53.8, 'disk': 57.0, 'network_sent': 262782921, 'network_recv': 123281919, 'process_count': 250}
+2026-03-11 12:11:11,239 - METRICS: {'cpu': 11.2, 'memory': 53.8, 'disk': 57.0, 'network_sent': 262789924, 'network_recv': 123288921, 'process_count': 250}
+2026-03-11 12:11:17,269 - METRICS: {'cpu': 9.9, 'memory': 53.8, 'disk': 57.0, 'network_sent': 262790515, 'network_recv': 123290167, 'process_count': 250}
+2026-03-11 12:11:23,295 - METRICS: {'cpu': 6.9, 'memory': 53.1, 'disk': 57.0, 'network_sent': 262790759, 'network_recv': 123291017, 'process_count': 250}
+2026-03-11 12:11:29,325 - METRICS: {'cpu': 11.5, 'memory': 53.2, 'disk': 57.0, 'network_sent': 262807554, 'network_recv': 123303554, 'process_count': 250}
+2026-03-11 12:11:35,353 - METRICS: {'cpu': 11.8, 'memory': 53.3, 'disk': 57.0, 'network_sent': 262807866, 'network_recv': 123303884, 'process_count': 250}
+2026-03-11 12:11:41,377 - METRICS: {'cpu': 9.6, 'memory': 53.3, 'disk': 57.0, 'network_sent': 262808159, 'network_recv': 123304780, 'process_count': 250}
+2026-03-11 12:11:47,413 - METRICS: {'cpu': 8.9, 'memory': 53.3, 'disk': 57.0, 'network_sent': 262808552, 'network_recv': 123305967, 'process_count': 250}
+2026-03-11 12:11:53,438 - METRICS: {'cpu': 4.5, 'memory': 53.3, 'disk': 57.0, 'network_sent': 262808808, 'network_recv': 123307055, 'process_count': 250}
+2026-03-11 12:11:59,468 - METRICS: {'cpu': 9.8, 'memory': 53.3, 'disk': 57.0, 'network_sent': 262841042, 'network_recv': 123314024, 'process_count': 250}
+2026-03-11 12:12:05,497 - METRICS: {'cpu': 22.8, 'memory': 54.1, 'disk': 57.0, 'network_sent': 262851379, 'network_recv': 123337149, 'process_count': 255}
+2026-03-11 12:12:11,547 - METRICS: {'cpu': 16.9, 'memory': 53.7, 'disk': 57.0, 'network_sent': 262856598, 'network_recv': 123350243, 'process_count': 254}
+2026-03-11 12:12:17,579 - METRICS: {'cpu': 9.5, 'memory': 53.5, 'disk': 57.0, 'network_sent': 262857064, 'network_recv': 123351214, 'process_count': 250}
+2026-03-11 12:12:23,605 - METRICS: {'cpu': 3.3, 'memory': 53.5, 'disk': 57.0, 'network_sent': 262857165, 'network_recv': 123351465, 'process_count': 250}
+2026-03-11 12:12:29,637 - METRICS: {'cpu': 10.7, 'memory': 53.6, 'disk': 57.0, 'network_sent': 262866736, 'network_recv': 123359144, 'process_count': 250}
+2026-03-11 12:12:35,668 - METRICS: {'cpu': 11.2, 'memory': 53.5, 'disk': 57.0, 'network_sent': 262867193, 'network_recv': 123360221, 'process_count': 250}
+2026-03-11 12:12:41,698 - METRICS: {'cpu': 9.7, 'memory': 53.5, 'disk': 57.0, 'network_sent': 262867395, 'network_recv': 123361302, 'process_count': 250}
+2026-03-11 12:12:47,762 - METRICS: {'cpu': 30.3, 'memory': 54.5, 'disk': 57.0, 'network_sent': 262889993, 'network_recv': 123401290, 'process_count': 252}
+2026-03-11 12:12:53,826 - METRICS: {'cpu': 22.8, 'memory': 55.4, 'disk': 57.0, 'network_sent': 262907881, 'network_recv': 123411958, 'process_count': 254}
+2026-03-11 12:12:59,861 - METRICS: {'cpu': 21.9, 'memory': 55.3, 'disk': 57.0, 'network_sent': 262910746, 'network_recv': 123414770, 'process_count': 252}
+2026-03-11 12:13:05,902 - METRICS: {'cpu': 22.9, 'memory': 55.0, 'disk': 57.0, 'network_sent': 262911554, 'network_recv': 123416435, 'process_count': 252}
+2026-03-11 12:13:11,959 - METRICS: {'cpu': 26.0, 'memory': 55.3, 'disk': 57.0, 'network_sent': 262937525, 'network_recv': 123422805, 'process_count': 252}
+2026-03-11 12:13:18,046 - METRICS: {'cpu': 33.4, 'memory': 53.9, 'disk': 57.0, 'network_sent': 262960900, 'network_recv': 123437859, 'process_count': 250}
+2026-03-11 12:13:24,071 - METRICS: {'cpu': 1.0, 'memory': 54.4, 'disk': 57.0, 'network_sent': 262999004, 'network_recv': 123448290, 'process_count': 252}
+2026-03-11 12:13:30,097 - METRICS: {'cpu': 1.4, 'memory': 53.8, 'disk': 57.0, 'network_sent': 263018642, 'network_recv': 123468795, 'process_count': 252}
+2026-03-11 12:13:36,120 - METRICS: {'cpu': 1.6, 'memory': 53.7, 'disk': 57.0, 'network_sent': 263021722, 'network_recv': 123469943, 'process_count': 251}
+2026-03-11 12:13:42,148 - METRICS: {'cpu': 12.9, 'memory': 53.7, 'disk': 57.0, 'network_sent': 263038920, 'network_recv': 123476710, 'process_count': 251}
+2026-03-11 12:13:48,199 - METRICS: {'cpu': 12.5, 'memory': 53.9, 'disk': 57.0, 'network_sent': 263068408, 'network_recv': 123485792, 'process_count': 251}
+2026-03-11 12:13:54,227 - METRICS: {'cpu': 2.6, 'memory': 53.8, 'disk': 57.0, 'network_sent': 263102031, 'network_recv': 123490269, 'process_count': 251}
+2026-03-11 12:14:00,283 - METRICS: {'cpu': 21.4, 'memory': 54.4, 'disk': 57.0, 'network_sent': 263205555, 'network_recv': 123574431, 'process_count': 253}
+2026-03-11 12:14:06,358 - METRICS: {'cpu': 47.6, 'memory': 55.3, 'disk': 57.0, 'network_sent': 263258984, 'network_recv': 123598250, 'process_count': 259}
+2026-03-11 12:14:12,418 - METRICS: {'cpu': 23.8, 'memory': 54.9, 'disk': 57.0, 'network_sent': 263325402, 'network_recv': 123611916, 'process_count': 257}
+2026-03-11 12:14:18,489 - METRICS: {'cpu': 20.2, 'memory': 54.6, 'disk': 57.0, 'network_sent': 263408357, 'network_recv': 123624379, 'process_count': 255}
+2026-03-11 12:14:24,514 - METRICS: {'cpu': 1.2, 'memory': 54.3, 'disk': 57.0, 'network_sent': 263430097, 'network_recv': 123631136, 'process_count': 251}
+2026-03-11 12:14:30,547 - METRICS: {'cpu': 12.1, 'memory': 54.0, 'disk': 57.0, 'network_sent': 263470786, 'network_recv': 123638593, 'process_count': 251}
+2026-03-11 12:14:36,572 - METRICS: {'cpu': 10.0, 'memory': 54.0, 'disk': 57.0, 'network_sent': 263471300, 'network_recv': 123639944, 'process_count': 250}
+2026-03-11 12:14:42,602 - METRICS: {'cpu': 9.8, 'memory': 54.0, 'disk': 57.0, 'network_sent': 263492184, 'network_recv': 123644958, 'process_count': 250}
+2026-03-11 12:14:48,657 - METRICS: {'cpu': 9.8, 'memory': 54.0, 'disk': 57.0, 'network_sent': 263503395, 'network_recv': 123646839, 'process_count': 250}
+2026-03-11 12:14:54,683 - METRICS: {'cpu': 1.7, 'memory': 54.0, 'disk': 57.0, 'network_sent': 263515943, 'network_recv': 123661572, 'process_count': 250}
+2026-03-11 12:15:00,714 - METRICS: {'cpu': 11.4, 'memory': 53.8, 'disk': 57.0, 'network_sent': 263516507, 'network_recv': 123663771, 'process_count': 248}
+2026-03-11 12:15:06,741 - METRICS: {'cpu': 8.7, 'memory': 53.8, 'disk': 57.0, 'network_sent': 263516810, 'network_recv': 123665014, 'process_count': 248}
+2026-03-11 12:15:12,773 - METRICS: {'cpu': 14.7, 'memory': 54.1, 'disk': 57.0, 'network_sent': 263524216, 'network_recv': 123677552, 'process_count': 250}
+2026-03-11 12:15:18,804 - METRICS: {'cpu': 18.3, 'memory': 55.5, 'disk': 57.0, 'network_sent': 263571292, 'network_recv': 123707600, 'process_count': 250}
+2026-03-11 12:15:24,831 - METRICS: {'cpu': 2.1, 'memory': 55.4, 'disk': 57.0, 'network_sent': 263574063, 'network_recv': 123714807, 'process_count': 250}
+2026-03-11 12:15:30,856 - METRICS: {'cpu': 9.1, 'memory': 55.4, 'disk': 57.0, 'network_sent': 263584640, 'network_recv': 123719645, 'process_count': 250}
+2026-03-11 12:15:36,884 - METRICS: {'cpu': 3.1, 'memory': 55.4, 'disk': 57.0, 'network_sent': 263585299, 'network_recv': 123720990, 'process_count': 250}
+2026-03-11 12:15:42,917 - METRICS: {'cpu': 13.6, 'memory': 55.5, 'disk': 57.0, 'network_sent': 263585516, 'network_recv': 123721577, 'process_count': 250}
+2026-03-11 12:15:48,945 - METRICS: {'cpu': 11.9, 'memory': 54.1, 'disk': 57.0, 'network_sent': 263586034, 'network_recv': 123723083, 'process_count': 248}
+2026-03-11 12:15:54,972 - METRICS: {'cpu': 1.7, 'memory': 54.1, 'disk': 57.0, 'network_sent': 263586477, 'network_recv': 123724082, 'process_count': 248}
+2026-03-11 12:16:00,997 - METRICS: {'cpu': 5.6, 'memory': 53.6, 'disk': 57.0, 'network_sent': 263586764, 'network_recv': 123725121, 'process_count': 248}
+2026-03-11 12:16:07,022 - METRICS: {'cpu': 21.9, 'memory': 53.9, 'disk': 57.0, 'network_sent': 263666371, 'network_recv': 123804281, 'process_count': 248}
+2026-03-11 12:16:13,088 - METRICS: {'cpu': 27.5, 'memory': 54.5, 'disk': 57.0, 'network_sent': 263687549, 'network_recv': 123816023, 'process_count': 250}
+2026-03-11 12:16:19,153 - METRICS: {'cpu': 17.8, 'memory': 54.9, 'disk': 57.0, 'network_sent': 263751093, 'network_recv': 123848268, 'process_count': 250}
+2026-03-11 12:16:25,178 - METRICS: {'cpu': 2.6, 'memory': 54.8, 'disk': 57.0, 'network_sent': 263883765, 'network_recv': 123866612, 'process_count': 251}
+2026-03-11 12:16:31,203 - METRICS: {'cpu': 1.2, 'memory': 54.7, 'disk': 57.0, 'network_sent': 263904653, 'network_recv': 123873771, 'process_count': 251}
+2026-03-11 12:16:37,232 - METRICS: {'cpu': 0.9, 'memory': 54.6, 'disk': 57.0, 'network_sent': 263938905, 'network_recv': 123889326, 'process_count': 250}
+2026-03-11 12:16:43,289 - METRICS: {'cpu': 18.8, 'memory': 54.8, 'disk': 57.0, 'network_sent': 263939006, 'network_recv': 123890025, 'process_count': 250}
+2026-03-11 12:16:49,314 - METRICS: {'cpu': 19.8, 'memory': 54.5, 'disk': 57.0, 'network_sent': 263971776, 'network_recv': 123892574, 'process_count': 248}
+2026-03-11 12:16:55,339 - METRICS: {'cpu': 1.5, 'memory': 54.5, 'disk': 57.0, 'network_sent': 263979108, 'network_recv': 123894499, 'process_count': 248}
+2026-03-11 12:17:01,363 - METRICS: {'cpu': 5.3, 'memory': 54.5, 'disk': 57.0, 'network_sent': 263979391, 'network_recv': 123895371, 'process_count': 248}
+2026-03-11 12:17:07,389 - METRICS: {'cpu': 6.4, 'memory': 54.5, 'disk': 57.0, 'network_sent': 263979958, 'network_recv': 123896600, 'process_count': 248}
+2026-03-11 12:17:13,419 - METRICS: {'cpu': 10.5, 'memory': 54.5, 'disk': 57.0, 'network_sent': 263980059, 'network_recv': 123897353, 'process_count': 248}
+2026-03-11 12:22:43,908 - METRICS: {'timestamp': datetime.datetime(2026, 3, 11, 12, 22, 42, 867061), 'cpu': 15.2, 'memory': 53.5, 'disk': 57.0, 'network_sent': 264508387, 'network_recv': 124232549, 'process_count': 247}
+2026-03-11 12:22:49,937 - METRICS: {'timestamp': datetime.datetime(2026, 3, 11, 12, 22, 48, 909164), 'cpu': 11.4, 'memory': 53.4, 'disk': 57.0, 'network_sent': 264508799, 'network_recv': 124233719, 'process_count': 246}
+2026-03-11 12:22:55,960 - METRICS: {'timestamp': datetime.datetime(2026, 3, 11, 12, 22, 54, 939475), 'cpu': 1.2, 'memory': 53.3, 'disk': 57.0, 'network_sent': 264509037, 'network_recv': 124234013, 'process_count': 246}
+2026-03-11 12:23:01,982 - METRICS: {'timestamp': datetime.datetime(2026, 3, 11, 12, 23, 0, 961959), 'cpu': 1.8, 'memory': 53.3, 'disk': 57.0, 'network_sent': 264509138, 'network_recv': 124234712, 'process_count': 246}
+2026-03-11 12:23:08,004 - METRICS: {'timestamp': datetime.datetime(2026, 3, 11, 12, 23, 6, 983559), 'cpu': 0.8, 'memory': 53.4, 'disk': 57.0, 'network_sent': 264514501, 'network_recv': 124236521, 'process_count': 246}
+2026-03-11 12:23:14,026 - METRICS: {'timestamp': datetime.datetime(2026, 3, 11, 12, 23, 13, 5681), 'cpu': 1.7, 'memory': 53.5, 'disk': 57.0, 'network_sent': 264514981, 'network_recv': 124242440, 'process_count': 248}
+2026-03-11 12:23:20,048 - METRICS: {'timestamp': datetime.datetime(2026, 3, 11, 12, 23, 19, 27803), 'cpu': 1.2, 'memory': 53.4, 'disk': 57.0, 'network_sent': 264515225, 'network_recv': 124243542, 'process_count': 247}
+2026-03-11 12:23:26,072 - METRICS: {'timestamp': datetime.datetime(2026, 3, 11, 12, 23, 25, 49354), 'cpu': 0.9, 'memory': 53.4, 'disk': 57.0, 'network_sent': 264521368, 'network_recv': 124248400, 'process_count': 247}
+2026-03-11 12:23:32,091 - METRICS: {'timestamp': datetime.datetime(2026, 3, 11, 12, 23, 31, 73384), 'cpu': 1.9, 'memory': 53.5, 'disk': 57.0, 'network_sent': 264539950, 'network_recv': 124266907, 'process_count': 247}
+2026-03-11 12:23:38,113 - METRICS: {'timestamp': datetime.datetime(2026, 3, 11, 12, 23, 37, 92177), 'cpu': 2.3, 'memory': 53.5, 'disk': 57.0, 'network_sent': 264546358, 'network_recv': 124280728, 'process_count': 247}
+2026-03-11 12:23:44,137 - METRICS: {'timestamp': datetime.datetime(2026, 3, 11, 12, 23, 43, 115579), 'cpu': 2.0, 'memory': 53.5, 'disk': 57.0, 'network_sent': 264546514, 'network_recv': 124281588, 'process_count': 247}
+2026-03-11 12:23:50,159 - METRICS: {'timestamp': datetime.datetime(2026, 3, 11, 12, 23, 49, 137912), 'cpu': 1.4, 'memory': 53.4, 'disk': 57.0, 'network_sent': 264549873, 'network_recv': 124283408, 'process_count': 247}
+2026-03-11 12:23:56,177 - METRICS: {'timestamp': datetime.datetime(2026, 3, 11, 12, 23, 55, 160112), 'cpu': 5.2, 'memory': 53.5, 'disk': 57.0, 'network_sent': 264550165, 'network_recv': 124283648, 'process_count': 247}
+2026-03-11 12:24:02,197 - METRICS: {'timestamp': datetime.datetime(2026, 3, 11, 12, 24, 1, 178451), 'cpu': 1.0, 'memory': 53.8, 'disk': 57.0, 'network_sent': 264574924, 'network_recv': 124305080, 'process_count': 248}
+2026-03-11 12:24:08,221 - METRICS: {'timestamp': datetime.datetime(2026, 3, 11, 12, 24, 7, 198980), 'cpu': 1.3, 'memory': 53.7, 'disk': 57.0, 'network_sent': 264575459, 'network_recv': 124306515, 'process_count': 248}
+2026-03-11 12:24:14,246 - METRICS: {'timestamp': datetime.datetime(2026, 3, 11, 12, 24, 13, 222632), 'cpu': 2.8, 'memory': 53.7, 'disk': 57.0, 'network_sent': 264581661, 'network_recv': 124308096, 'process_count': 248}
+2026-03-11 12:24:20,267 - METRICS: {'timestamp': datetime.datetime(2026, 3, 11, 12, 24, 19, 247016), 'cpu': 1.2, 'memory': 53.7, 'disk': 57.0, 'network_sent': 264581848, 'network_recv': 124308487, 'process_count': 248}
+2026-03-11 12:24:26,288 - METRICS: {'timestamp': datetime.datetime(2026, 3, 11, 12, 24, 25, 268568), 'cpu': 1.4, 'memory': 53.7, 'disk': 57.0, 'network_sent': 264585517, 'network_recv': 124313068, 'process_count': 248}
+2026-03-11 12:24:32,309 - METRICS: {'timestamp': datetime.datetime(2026, 3, 11, 12, 24, 31, 289058), 'cpu': 1.0, 'memory': 53.7, 'disk': 57.0, 'network_sent': 264593035, 'network_recv': 124317287, 'process_count': 248}
+2026-03-11 12:24:38,331 - METRICS: {'timestamp': datetime.datetime(2026, 3, 11, 12, 24, 37, 310796), 'cpu': 1.7, 'memory': 53.5, 'disk': 57.0, 'network_sent': 264593400, 'network_recv': 124318320, 'process_count': 243}
+2026-03-11 12:24:44,351 - METRICS: {'timestamp': datetime.datetime(2026, 3, 11, 12, 24, 43, 331751), 'cpu': 33.7, 'memory': 55.0, 'disk': 57.0, 'network_sent': 264644612, 'network_recv': 124668118, 'process_count': 249}
+2026-03-11 12:24:50,371 - METRICS: {'timestamp': datetime.datetime(2026, 3, 11, 12, 24, 49, 352262), 'cpu': 14.9, 'memory': 54.8, 'disk': 57.0, 'network_sent': 264781155, 'network_recv': 125055063, 'process_count': 246}
+2026-03-11 12:24:56,413 - METRICS: {'timestamp': datetime.datetime(2026, 3, 11, 12, 24, 55, 372060), 'cpu': 11.8, 'memory': 55.0, 'disk': 57.0, 'network_sent': 264852483, 'network_recv': 125086153, 'process_count': 245}
+2026-03-11 12:25:02,434 - METRICS: {'timestamp': datetime.datetime(2026, 3, 11, 12, 25, 1, 414895), 'cpu': 1.7, 'memory': 54.9, 'disk': 57.0, 'network_sent': 264852816, 'network_recv': 125087940, 'process_count': 244}
+2026-03-11 12:25:08,456 - METRICS: {'timestamp': datetime.datetime(2026, 3, 11, 12, 25, 7, 434537), 'cpu': 7.2, 'memory': 54.8, 'disk': 57.0, 'network_sent': 264905085, 'network_recv': 125160246, 'process_count': 244}
+2026-03-11 12:25:14,478 - METRICS: {'timestamp': datetime.datetime(2026, 3, 11, 12, 25, 13, 457023), 'cpu': 3.7, 'memory': 54.8, 'disk': 57.0, 'network_sent': 264921087, 'network_recv': 125167367, 'process_count': 244}
+2026-03-11 12:25:20,504 - METRICS: {'timestamp': datetime.datetime(2026, 3, 11, 12, 25, 19, 479238), 'cpu': 14.9, 'memory': 54.8, 'disk': 57.0, 'network_sent': 264941012, 'network_recv': 125170642, 'process_count': 244}
+2026-03-11 12:25:26,544 - METRICS: {'timestamp': datetime.datetime(2026, 3, 11, 12, 25, 25, 505484), 'cpu': 4.5, 'memory': 54.5, 'disk': 57.0, 'network_sent': 264963637, 'network_recv': 125177220, 'process_count': 243}
+2026-03-11 12:25:32,571 - METRICS: {'timestamp': datetime.datetime(2026, 3, 11, 12, 25, 31, 545413), 'cpu': 4.1, 'memory': 54.6, 'disk': 57.0, 'network_sent': 264980928, 'network_recv': 125182508, 'process_count': 243}
+2026-03-11 12:25:38,587 - METRICS: {'timestamp': datetime.datetime(2026, 3, 11, 12, 25, 37, 572284), 'cpu': 3.5, 'memory': 54.6, 'disk': 57.0, 'network_sent': 264998418, 'network_recv': 125185219, 'process_count': 243}
