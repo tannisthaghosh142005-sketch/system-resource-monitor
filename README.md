@@ -1,6 +1,6 @@
 #### \# System Resource Monitoring \& Alerting Tool
 
-A Python-based system monitoring tool that continuously tracks CPU, memory, disk, and network usage and generates alerts when predefined thresholds are exceeded.
+Python-based system resource monitoring tool that tracks CPU, memory, disk, and network usage and generates configurable alerts with logging and metric storage capabilities.
 
 
 
